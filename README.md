@@ -1,6 +1,6 @@
 # TOKAM
 
-<!-- Artist Template
+<Artist Template
 
 12/21/2023- (Update file name for TOKAM1.1.html, TOKAM1.2.html, TOKAM1.3.html, TOKAM1.4.html). Disables ROFF status in code.
 
@@ -10,4 +10,3 @@ TOK1 rough draft
 // No script inclusions //
 
 Study and develop a new Devops cycle for this site.
--->
