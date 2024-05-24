@@ -13,4 +13,7 @@ No script inclusion
 Updated Landing Page
 Updated Merch Page
 
+5/24/2024
+All 4 entries complete
+
 Study and develop a new Devops cycle for this site.
